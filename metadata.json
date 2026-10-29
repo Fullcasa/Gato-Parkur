@@ -1,0 +1,6 @@
+{
+  "name": "GatoParkour 3D - Salto de Techos",
+  "description": "Juego en primera persona de gatos saltando techos, recolectando comida deliciosa, desbloqueando razas con habilidades únicas de salto y superando niveles urbanos.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
